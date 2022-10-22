@@ -1,0 +1,64 @@
+track hor
+type bigBed
+bigDataUrl bb/hor.bb
+shortLabel ASat HOR
+longLabel ASat HOR
+itemRgb on
+group Centromere
+priority 1
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track stv
+type bigBed
+bigDataUrl bb/stv.bb
+shortLabel ASat StV
+longLabel ASat StV
+itemRgb on
+group Centromere
+priority 2
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track sf
+type bigBed
+bigDataUrl bb/sf.bb
+shortLabel ASat SF
+longLabel ASat SF
+itemRgb on
+group Centromere
+priority 3
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track strand
+type bigBed
+bigDataUrl bb/strand.bb
+shortLabel ASat Strand
+longLabel ASat strand
+itemRgb on
+group Centromere
+priority 4
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track contigs
+type bigBed
+bigDataUrl bb/contigs.bb
+shortLabel contigs
+longLabel contigs
+itemRgb on
+group Assembly
+priority 5
+visibility dense
+type bigBed 9
+itemRgb off
+maxItems 100000

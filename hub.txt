@@ -1,0 +1,6 @@
+hub YR1_ancient_cen10
+shortLabel YR1_ancient_cen10
+longLabel YR1_ancient_cen10
+genomesFile genomes.txt
+email  fedorrik1@gmail.com
+
