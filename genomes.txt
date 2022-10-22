@@ -1,6 +1,6 @@
 genome YR1_ancient_cen10
 trackDb YR1_ancient_cen10/trackDb.txt
-twoBitPath YR1_ancient_cen10/HG004.2bit
+twoBitPath YR1_ancient_cen10/YR1_ancient_cen10.2bit
 organism Homo Sapiens
 defaultPos HG02572.cen10:0-42253327
 
